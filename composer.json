@@ -1,0 +1,30 @@
+{
+    "name": "settermjd/google-cloud-storage-with-php-examples",
+    "description": "This is a small repository that shows basic examples of using Google Cloud Storage to store files with PHP.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthew Setter",
+            "email": "matthew@matthewsetter.com",
+            "homepage": "https://matthewsetter.com",
+            "role": "developer"
+        }
+    ],
+    "support": {
+        "email": "matthew@matthewsetter.com",
+        "issues": "https://github.com/settermjd/google-cloud-storage-with-php-examples/issues"
+    },
+    "keywords": [
+        "cloud storage",
+        "google cloud storage",
+        "google",
+        "php",
+        "twilio"
+    ],
+    "require": {
+        "php": "~8.2",
+        "league/flysystem-google-cloud-storage": "^3.15"
+    },
+    "sort-packages": true
+}
